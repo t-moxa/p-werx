@@ -1,2 +1,2 @@
 # p-werx
-New inplementation
+A new implementation of the old program WERX (Author: Agafonov )
